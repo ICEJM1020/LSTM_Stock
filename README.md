@@ -2,7 +2,7 @@
 
 直接看代码走这儿：
 <!-- GFM-TOC -->
-* [代码 Code](/Code/coding.md)
+* [代码 Code](/Code)
 <!-- GFM-TOC -->
     
     长短期记忆网络（LSTM，Long Short-Term Memory）是一种时间循环神经网络，是为了解决一般的RNN（循环神经网络）存在的长期依赖问题而专门设计出来的，LSTM适合于处理和预测时间序列中间隔和延迟非常长的重要事件。
