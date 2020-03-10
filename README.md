@@ -5,7 +5,7 @@
 
 <!-- GFM-TOC -->
 * [代码： Code](/Code)
-* [LSTM学习过程：learning process of LSTM](/Learning)
+* [LSTM学习过程：Learning process of LSTM](/Learning)
 <!-- GFM-TOC -->
 
 # 结果：
